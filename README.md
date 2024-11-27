@@ -1,4 +1,4 @@
-## Hi there 👋
+## Repo - Deployed next.js blog website
 
 <!--
 **alexmelocco/alexmelocco** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
